@@ -19,14 +19,28 @@ Hi, I'm Ayush, a passionate Programmer from India. My passion for software lies 
 <h3> 🌱 I’m currently Developing Projects in Web Development.</h3>
 <h3> 👯 I’m looking to collaborate on Youtube.</h3>
 <h3> 🤔 I’m looking for help with Competitive Coding.</h3>
-<h3> 💬 Ask me about Programming, any Tech realed stuff.</h3>
-<h3> 😄 Pronouns: His/He.</h3>
+<h3>💬 Ask me about Programming, any Tech realed stuff.</h3>
+<img align="right" width="450" height="400"  src="https://lh3.googleusercontent.com/proxy/xa26sbNRfDBXcragRAt2WGjrSuCB-iT3nb8f0x093s4jROs5IQhfqkTZL2YRkTtocZbzk8OkqLdUu9qYpDcADAcprnjNTTGKdvdemZo5KYifzg" alt="The Octocat—a nerdy household name" jsname="HiaYvf" jsaction="load:XAeZkd;" class="n3VNCb" data-noaft="1" style="width: 400px; height: 320px; margin: 89.15px 0px;">
+<h3>😄 Pronouns: His/He.</h3>
 <h3> ⚡ Fun fact: I know it's crazy, but I love to eat.</h3>
 
 <h3> 🎯 I’m focusing on Competitive Programming.</h3>
 
-<h3> 📫 How to reach me **ayushmishra9615@gmail.com**
+- 📫 How to reach me **ayushmishra9615@gmail.com**
 
+    
+### Languages and Tools:
+
+<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
+<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
+
+<br>
+<br />
+<br />
 <br>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aayushkumarmishra&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=dark&custom_title=HEY 🙏 Programmers!! &layout=compact" alt="Ayush Kumar Mishra"/>

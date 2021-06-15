@@ -20,13 +20,15 @@ Hi, I'm Ayush, a passionate Programmer from India. My passion for software lies 
 <h3> 👯 I’m looking to collaborate on Youtube.</h3>
 <h3> 🤔 I’m looking for help with Competitive Coding.</h3>
 <h3>💬 Ask me about Programming, any Tech realed stuff.</h3>
-<img align="right" width="450" height="400"  src="https://lh3.googleusercontent.com/proxy/xa26sbNRfDBXcragRAt2WGjrSuCB-iT3nb8f0x093s4jROs5IQhfqkTZL2YRkTtocZbzk8OkqLdUu9qYpDcADAcprnjNTTGKdvdemZo5KYifzg" alt="The Octocat—a nerdy household name" jsname="HiaYvf" jsaction="load:XAeZkd;" class="n3VNCb" data-noaft="1" style="width: 400px; height: 320px; margin: 89.15px 0px;">
 <h3>😄 Pronouns: His/He.</h3>
 <h3> ⚡ Fun fact: I know it's crazy, but I love to eat.</h3>
 
 <h3> 🎯 I’m focusing on Competitive Programming.</h3>
 
 - 📫 How to reach me **ayushmishra9615@gmail.com**
+
+<img align="right" width="450" height="400"  src="https://lh3.googleusercontent.com/proxy/xa26sbNRfDBXcragRAt2WGjrSuCB-iT3nb8f0x093s4jROs5IQhfqkTZL2YRkTtocZbzk8OkqLdUu9qYpDcADAcprnjNTTGKdvdemZo5KYifzg" alt="The Octocat—a nerdy household name" jsname="HiaYvf" jsaction="load:XAeZkd;" class="n3VNCb" data-noaft="1" style="width: 400px; height: 320px; margin: 89.15px 0px;">
+
 
     
 ### Languages and Tools:

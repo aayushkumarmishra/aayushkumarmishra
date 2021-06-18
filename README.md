@@ -27,11 +27,9 @@ Hi, I'm Ayush, a passionate Programmer from India. My passion for software lies 
 
 - 📫 How to reach me **ayushmishra9615@gmail.com**
 
-<img align="right" width="450" height="400"  src="https://lh3.googleusercontent.com/proxy/xa26sbNRfDBXcragRAt2WGjrSuCB-iT3nb8f0x093s4jROs5IQhfqkTZL2YRkTtocZbzk8OkqLdUu9qYpDcADAcprnjNTTGKdvdemZo5KYifzg" alt="The Octocat—a nerdy household name" jsname="HiaYvf" jsaction="load:XAeZkd;" class="n3VNCb" data-noaft="1" style="width: 400px; height: 320px; margin: 89.15px 0px;">
-
 
     
-### Languages and Tools:
+# Languages and Tools:
 
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />

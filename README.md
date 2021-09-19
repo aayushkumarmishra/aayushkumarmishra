@@ -46,6 +46,7 @@ Hi, I'm Ayush, a passionate Programmer from India. My passion for software lies 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aayushkumarmishra&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=dark&custom_title=HEY 🙏 Programmers!! &layout=compact" alt="Ayush Kumar Mishra"/>
 
 <h2> :zap: Most used languages ❤️</h2>
+<img src="/Octocat.png" align="right" width="400px" >
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aayushkumarmishra&theme=blue-green)
 

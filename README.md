@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/AkashSingh3031/AkashSingh3031/main/Developer.gif" width="200px">
+<img src="/hackerman-programming.gif" width="200px">
 </p>
 <h1 align="center">Hello Everyone!!👋, I'm Ayush Kumar Mishra from <img src="https://media.giphy.com/media/z5i7CdtKqVotB9mz7h/giphy.gif" width="30px" height="20"></h1>
 

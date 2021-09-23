@@ -15,10 +15,10 @@ Hi, I'm Ayush, a passionate Programmer from India. My passion for software lies 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="290" />
 
 <br>
-<h3> 🔭 I'm in the 4<sup>st</sup> year of B.Tech Computer Science.</h3>
+<h3> 🔭 I'm in the 4th<sup>st</sup> year of B.Tech Computer Science Engineering.</h3>
 <h3> 🌱 I’m currently Developing Projects in Web Development.</h3>
 <h3> 👯 I’m looking to collaborate on Youtube.</h3>
-<h3> 🤔 I’m looking for help with Competitive Coding.</h3>
+<h3> 🤔 I’m looking for help with Competitive Coding with cpp.</h3>
 <h3>💬 Ask me about Programming, any Tech realed stuff.</h3>
 <h3>😄 Pronouns: His/He.</h3>
 <h3> ⚡ Fun fact: I know it's crazy, but I love to eat.</h3>

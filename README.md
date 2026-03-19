@@ -1,9 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ayush Kumar Mishra</h1>
 <h3 align="center">🚀 DevOps Enthusiast | Software Engineer | Problem Solver</h3>
 
-<p align="center">
-  <img src="/hackerman-programming.gif" width="250px"/>
-</p>
+<table align="center" style="border:none;">
+  <tr>
+    <td style="border:none;">
+      <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300px"/>
+    </td>
+    <td style="border:none;">
+      <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="300px"/>
+    </td>
+  </tr>
+</table>
+<p align="center">⚙️ Building • Automating • Scaling 🚀</p>
 
 ---
 

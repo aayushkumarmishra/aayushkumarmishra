@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Kumar Mishra</h1>
-<h3 align="center">🚀 DevOps Enthusiast | Software Developer | Problem Solver</h3>
+<h3 align="center">🚀 DevOps Enthusiast | Software Engineer | Problem Solver</h3>
 
 <p align="center">
   <img src="/hackerman-programming.gif" width="250px"/>
@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech CSE (Final Year)
+- 💼 Software Engineer with **2+ years of experience**
 - 💻 Passionate about **DevOps, Automation & Scalable Systems**
 - 🌱 Currently working on **Web Development & DevOps Tools**
 - 🤝 Open to collaboration on **DevOps / Open Source Projects**
